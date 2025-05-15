@@ -16,7 +16,3 @@ The system is suitable for real-world use cases like **medical devices**, **indu
 - ✅ **Anti-Rollback Protection** via version checks
 - ✅ **CRC32 or SHA-256 Integrity Verification**
 
----
-
-## 🧱 Architecture
-
